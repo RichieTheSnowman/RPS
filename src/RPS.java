@@ -111,6 +111,6 @@ public class RPS {
 	
 	public static int getWinnerFor(int player, int winner) {
 		if (winner == RPS.TIE) return RPS.TIE;
-		return (winner == player)?RPS.YOU:RPS.OPPONENT;
+H		return (winner == player)?RPS.YOU:RPS.OPPONENT;
 	}
 }
