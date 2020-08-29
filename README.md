@@ -1,2 +1,2 @@
 # RPSAITemplate
-A template for creating RPS AIs
+A template for creating Rock Paper Scissors (RPS) AIs
